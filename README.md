@@ -1,3 +1,3 @@
 # python-project
+👋 i am sushant and it's a repository where i keep all my basic python programs.
 
-A repository where i keep all my basic python programs.
